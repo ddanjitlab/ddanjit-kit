@@ -1,0 +1,17 @@
+{
+  "name": "ddanjit-kit",
+  "owner": { "name": "딴짓연구소" },
+  "description": "딴짓연구소 클로드코드 강의 수강생용 수업 키트 plugin 창고",
+  "plugins": [
+    {
+      "name": "ddanjit-class",
+      "source": "./ddanjit-class",
+      "description": "딴짓연구소 수업용 키트: 폴더정리 실습파일 + 기획 기능(superpowers 번들)"
+    },
+    {
+      "name": "superpowers",
+      "source": { "source": "url", "url": "https://github.com/obra/superpowers.git" },
+      "description": "Jesse Vincent의 Claude Code 스킬 라이브러리 (MIT). 브레인스토밍·계획 등 기획 기능."
+    }
+  ]
+}

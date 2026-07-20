@@ -1,0 +1,7 @@
+{
+  "name": "ddanjit-class",
+  "version": "0.1.0",
+  "description": "딴짓연구소 수업용 키트: 폴더정리 실습파일 + 기획 기능(superpowers 번들)",
+  "author": { "name": "딴짓연구소" },
+  "dependencies": ["superpowers"]
+}
