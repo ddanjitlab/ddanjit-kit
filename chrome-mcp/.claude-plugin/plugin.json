@@ -1,0 +1,6 @@
+{
+  "name": "chrome-mcp",
+  "version": "0.1.0",
+  "description": "크롬MCP 설치 키트 — 클로드가 크롬 브라우저를 직접 보고 조작하게 (크롬 확장 동봉 + 단계별 설치 안내)",
+  "author": { "name": "딴짓연구소" }
+}

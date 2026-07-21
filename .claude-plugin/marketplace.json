@@ -12,6 +12,11 @@
       "name": "superpowers",
       "source": { "source": "url", "url": "https://github.com/obra/superpowers.git" },
       "description": "Jesse Vincent의 Claude Code 스킬 라이브러리 (MIT). 브레인스토밍·계획 등 기획 기능."
+    },
+    {
+      "name": "chrome-mcp",
+      "source": "./chrome-mcp",
+      "description": "크롬MCP 설치 키트 (크롬 확장 동봉 + 단계별 설치 안내). hangwin/mcp-chrome MIT 기반."
     }
   ]
 }
